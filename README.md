@@ -8,30 +8,30 @@ This project explores the relationship between demographic factors and bike purc
 
 ## KPIs for Your Bike Sales Dashboard Project
 
-1.Average Income per Bike Purchase
+1. Average Income per Bike Purchase
 - Tracked by Gender and Marital Status
 - Helps understand the spending power of buyers
 
-2.Bike Purchase Rate by Age Bracket
+2. Bike Purchase Rate by Age Bracket
 - Age group contributing most to bike purchases (e.g., Middle Age)
 
-3.Purchase Rate by Commute Distance
+3. Purchase Rate by Commute Distance
 - Which commute range is associated with more bike buyers?
 - Useful for identifying use cases (e.g., short-distance commuters)
 
-4.Purchase Count by Education Level
+4. Purchase Count by Education Level
 - Helps identify the educational backgrounds of likely customers
 
-5.Bike Purchases by Occupation
+5. Bike Purchases by Occupation
 - Occupational segments more likely to purchase bikes
 
-6.Bike Purchases by Region
+6. Bike Purchases by Region
 - Identify which regions have the highest buyer density.
 
-7.Gender-wise Purchase Analysis
+7. Gender-wise Purchase Analysis
 - Count of bike purchases by Male vs. female.
 - Helps in gender-targeted marketing
 
-8.Income vs Purchase Trend
+8. Income vs Purchase Trend
 - Is higher income directly associated with purchases?
 - For example, average income of buyers vs non-buyers
