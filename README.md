@@ -47,3 +47,5 @@ This project explores the relationship between demographic factors and bike purc
 
 # Dashboard
 - <a href= "https://github.com/naiyakhalid/Customer-Demographics-Bike-Purchase-Analysis-on-Excel-/blob/main/Bike%20sales%20Dashboard.png">Bike sales Dashboard</a>
+<img width="912" alt="Bike sales Dashboard" src="https://github.com/user-attachments/assets/a6e451de-a25e-42bb-9a64-7527856e1dec" />
+
