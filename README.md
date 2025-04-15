@@ -35,3 +35,12 @@ This project explores the relationship between demographic factors and bike purc
 8. Income vs Purchase Trend
 - Is higher income directly associated with purchases?
 - For example, average income of buyers vs non-buyers
+
+# Process:
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created an "Age Brackets" column to better visualize and categorize customers into different age groups (e.g., Adolescent, Middle Age, Old).
+- Updated the "Marital Status" column by replacing 'M' with 'Married' and 'S' with 'Single' to improve clarity and avoid confusion.
+- Corrected the "Gender" column by replacing 'M' with 'Male' and 'F' with 'Female' for consistency and readability.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
