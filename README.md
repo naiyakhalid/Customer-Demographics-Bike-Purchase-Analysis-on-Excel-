@@ -42,5 +42,8 @@ This project explores the relationship between demographic factors and bike purc
 - Created an "Age Brackets" column to better visualize and categorize customers into different age groups (e.g., Adolescent, Middle Age, Old).
 - Updated the "Marital Status" column by replacing 'M' with 'Married' and 'S' with 'Single' to improve clarity and avoid confusion.
 - Corrected the "Gender" column by replacing 'M' with 'Male' and 'F' with 'Female' for consistency and readability.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+# Dashboard
+
