@@ -46,4 +46,4 @@ This project explores the relationship between demographic factors and bike purc
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 # Dashboard
-
+- <a href= "https://github.com/naiyakhalid/Customer-Demographics-Bike-Purchase-Analysis-on-Excel-/blob/main/Bike%20sales%20Dashboard.png">Bike sales Dashboard</a>
