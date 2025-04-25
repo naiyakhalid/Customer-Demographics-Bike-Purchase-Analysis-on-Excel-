@@ -46,7 +46,7 @@ __8. Income vs Purchase Trend__
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 # Dashboard
-- <a href= "Coffee-Sales-Dashboard.png">Bike sales Dashboard</a>
+- <a href= "Coffee-Sales-Dashboard.png">Coffee sales Dashboard</a>
 <img width="1139" alt="Coffee-Sales-Dashboard" src="https://github.com/user-attachments/assets/14971689-21f3-464a-98b8-f4f3125a38b3" />
 
 ## Project Insights
